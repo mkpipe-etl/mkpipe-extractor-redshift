@@ -19,6 +19,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
       host: 'XXX'
       port: 'XXX'
       database: 'XXX'
+      schema: 'XXX' 
       user: 'XXX'
       password: 'XXX'
 ...
